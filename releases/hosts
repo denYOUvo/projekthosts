@@ -1,7 +1,3 @@
-# ============ START MY CUSTOM ======\
-# ====================================\
-
-# [MANGA]
 104.25.139.23 mangakakalot.com
 104.31.82.65 www.9hentai.com
 104.31.83.65 cdn.9hentai.com
@@ -13,8 +9,6 @@
 104.25.48.20 cdn.perveden.com
 104.20.210.9 cdn.mangaeden.com
 104.20.211.9 static.mangaeden.com
-
-# [YKWIM]
 192.185.33.203 hennojin.com
 192.185.33.203 www.hennojin.com
 104.20.131.131 verystream.com
@@ -129,7 +123,7 @@
 104.24.127.164 miohentai.com
 104.24.127.164 www.miohentai.com
 104.31.14.163 spankbang.com
-104.31.14.163 *.spankbang.com
+104.31.14.163 www.spankbang.com
 104.31.15.163 id.spankbang.com
 104.31.14.163 www.spankbang.com
 104.31.14.163 m.spankbang.com
@@ -165,8 +159,6 @@
 110.3.250.23 prop.gr.jp
 153.120.93.118 movie.illusion.jp
 153.120.93.118 www.movie.illusion.jp
-
-# [MINILYRICS]
 74.208.224.110 search.crintsoft.com
 74.208.224.110 crintsoft.com
 74.208.224.110 www.crintsoft.com
@@ -174,19 +166,12 @@
 74.208.224.110 www.minilyrics.com
 74.208.224.110 viewlyrics.com
 74.208.224.110 www.viewlyrics.com
-
-# *Start UNBLOCKHOSTID
-# ====================================\
-
-# [OPENLOAD.CO]
 104.16.166.50 openload.co
 104.16.166.50 www.openload.co
 104.16.165.50 t1.openload.co
 104.16.164.50 tt1.openload.co
 104.16.164.50 api.openload.co
 104.16.164.50 support.openload.co
-
-# [REDDIT.COM]
 151.101.129.140 reddit.com
 151.101.129.140 www.reddit.com
 151.101.1.140 np.reddit.com
@@ -224,8 +209,6 @@
 151.101.189.140 preview.redd.it
 151.101.69.140 styles.redditmedia.com
 151.101.41.140 gql.reddit.com
-
-# [VIMEO.COM]
 151.101.130.109 i.vimeocdn.com
 151.101.64.217 developer.vimeo.com
 151.101.64.217 www.vimeo.com
@@ -239,11 +222,7 @@
 151.101.17.133 fpdl.vimeocdn.com
 104.156.81.217 help.vimeo.com
 104.156.81.217 app.vimeo.com
-
-# [THEPIRATEBAY.ORG]
 104.27.216.28 thepiratebay.org
-
-# [HITOMI.LA]
 185.145.131.184 hitomi.la
 185.145.131.184 www.hitomi.la
 23.237.36.202 a.hitomi.la
@@ -258,35 +237,21 @@
 23.237.36.202 g.hitomi.la
 23.237.36.202 i.hitomi.la
 192.240.120.10 hf2.hitomi.la
-
-# [NHENTAI.NET]
 141.101.120.55 nhentai.net
 141.101.120.55 www.nhentai.net
 141.101.120.54 static.nhentai.net
 185.165.243.200 t.nhentai.net
 185.165.243.201 i.nhentai.net
 185.165.243.200 webseed.nhentai.net
-
-# [GELBOORU.COM]
 67.202.114.141 gelbooru.com
 67.202.114.141 www.gelbooru.com
 212.8.240.5 img2.gelbooru.com
 212.8.240.5 simg3.gelbooru.com
-
-# [OMEGLE.COM]
 104.23.128.76 omegle.com
 104.23.128.76 www.omegle.com
-
-# [RARBG.TO]
 185.37.100.122 rarbg.to
-
-# [EZTV.AG]
 104.27.208.30 eztv.ag
-
-# [ISOHUNT.TO]
 104.23.204.30 isohunt.to
-
-# [4CHAN.ORG]
 104.16.117.221 4chan.org
 104.16.117.221 www.4chan.org
 104.16.116.221 boards.4chan.org
@@ -305,80 +270,58 @@
 104.16.62.249 t.4cdn.org
 144.217.123.248 is3.4chan.org
 142.44.218.139 is2.4chan.org
-
-# [HENTAIHAVEN.ORG]
 192.124.249.11 hentaihaven.org
 192.124.249.11 www.hentaihaven.org
-
-# [PORNHUB.COM]
 31.192.120.36 pornhub.com
 31.192.120.36 www.pornhub.com
-
-# [TBIB.ORG]
 104.31.90.62 tbib.org
-
-# [XHAMSTER.COM]
 88.208.18.30 xhamster.com
 88.208.18.30 mobi.xhamster.com
 88.208.18.30 m.xhamster.com
 88.208.18.30 www.xhamster.com
 88.208.31.1 xhcdn.com
 88.208.31.1 video.xhcdn.com
-
-# [JAVFOR.ME]
 104.25.219.15 javfor.me
 104.25.219.15 cdn.hdporn4.me
-
-# [JAVFIND.COM]
 104.24.125.127 javfind.com
-
-# [BEJAV.NET]
 104.28.4.81 bejav.net
-
-# [AKIBA-ONLINE.COM]
 89.248.169.70 akiba-online.com
 89.248.169.70 www.akiba-online.com
-
-# [R18.COM]
-202.6.246.238 r18.com www.r18.com
+202.6.246.238 r18.com
+202.6.246.238 www.r18.com
 43.255.42.241 pics.r18.com
 54.239.132.76 awscc3001.r18.com
 54.239.132.55 awspv3001.r18.com
 157.112.92.33 affiliate.r18.com
 66.6.32.22 blog.r18.com
-
-# [DONMAI.US]
-104.20.134.45 donmai.us www.donmai.us danbooru.donmai.us
-104.20.135.45 raikou1.donmai.us raikou2.donmai.us raikou3.donmai.us raikou4.donmai.us safebooru.donmai.us
+104.20.134.45 donmai.us
+104.20.134.45 www.donmai.us
+104.20.134.45 danbooru.donmai.us
+104.20.135.45 raikou1.donmai.us    
+104.20.134.45 raikou2.donmai.us
+104.20.134.45 raikou3.donmai.us
+104.20.134.45 raikou4.donmai.us
+104.20.134.45 safebooru.donmai.us
 147.135.4.93 kagamihara.donmai.us
 147.135.10.29 shima.donmai.us
-
-# [BROMO.COM]
-94.199.249.240 bromo.com www.bromo.com
-
-# [HENTAI2READ.COM]
+94.199.249.240 bromo.com
+94.199.249.240 www.bromo.com
 104.20.62.168 hentai2read.com
-
-# [VIPERGIRLS.TO]
 104.25.190.118 vipergirls.to
-
-# [FAKKU.NET]
-104.20.209.29 fakku.net www.fakku.net
+104.20.209.29 fakku.net
+104.20.209.29 www.fakku.net
 104.20.208.29 t.fakku.net
 66.6.32.22 tumblr.fakku.net
 23.227.38.64 store.fakku.net
 104.20.208.29 books.fakku.net
-
-# [E-HENTAI.ORG]
-104.24.255.11 e-hentai.org www.e-hentai.org
+104.24.255.11 e-hentai.org
+104.24.255.11 www.e-hentai.org
 94.100.18.243 forums.e-hentai.org
 94.100.24.81 upload.e-hentai.org
 104.237.196.116 g.e-hentai.org
 81.171.20.5 api.e-hentai.org
 104.20.135.21 r.e-hentai.org
 104.20.135.21 lofi.e-hentai.org
-
-# [XVIDEOS.COM]
 209.197.3.84 static-hw.xvideos.com
 209.197.3.84 img-hw.xvideos.com
 185.88.181.7 info.xvideos.com
@@ -390,12 +333,8 @@
 185.88.181.4 upload.xvideos.com
 185.88.181.4 static-l16.xvideos.com
 185.88.181.4 flashservice.xvideos.com
-
-# [PAHEAL.NET]
 208.97.151.195 paheal.net
 5.79.80.150 rule34.paheal.net
-
-# [XNXX.COM]
 141.0.173.174 multi.xnxx.com
 185.88.181.60 account.xnxx.com
 141.0.173.91 games.xnxx.com
@@ -404,9 +343,8 @@
 185.88.181.58 xnxx.com
 141.0.172.211 stories.xnxx.com
 205.185.208.154 s9v7j7a4.ssl.hwcdn.net
-
-# [SANKAKUCOMPLEX.COM]
-208.100.24.252 sankakucomplex.com www.sankakucomplex.com
+208.100.24.252 sankakucomplex.com
+208.100.24.252 www.sankakucomplex.com
 208.100.27.32 chan.sankakucomplex.com
 208.100.27.32 idol.sankakucomplex.com
 208.100.47.78 images.sankakucomplex.com
@@ -420,8 +358,6 @@
 208.100.47.78 img4.sankakucomplex.com
 208.100.47.78 img3.sankakucomplex.com
 208.100.24.254 is.sankakucomplex.com
-
-# [SPANKBANG.COM]
 104.31.15.163 th.spankbang.com
 104.31.15.163 static.spankbang.com
 104.31.15.163 nl.spankbang.com
@@ -450,8 +386,6 @@
 68.232.35.116 cdn.engine.phn.doublepimp.com
 151.101.0.207 vjs.zencdn.net
 104.31.79.253 fronthub.com
-
-# [DMM.COM]
 103.254.144.94 stat.i3.dmm.com
 202.6.247.84 mvno.dmm.com
 203.209.151.65 akiba.dmm-make.com
@@ -482,43 +416,30 @@
 203.209.147.170 mobile.dmm.com
 43.255.42.131 okan.dmm.com
 43.255.42.71 hikari.dmm.com
-
-# [DMM.CO.JP]
-202.6.247.66 pics.dmm.co.jp p.dmm.co.jp pics.dmm.com
-202.6.246.32 dmm.co.jp actress.dmm.co.jp
+202.6.247.66 pics.dmm.co.jp
+202.6.247.66 pics.dmm.com
+202.6.247.66 p.dmm.co.jp
+202.6.246.32 dmm.co.jp
+202.6.246.32 actress.dmm.co.jp
 157.112.85.173 www.dmm.co.jp
 103.254.146.221 sample9.dmm.co.jp
 202.6.247.196 dlsoft.dmm.co.jp
-
-# [JAVLIBRARY.COM]
-104.18.62.228 javlibrary.com www.javlibrary.com
-
-# [YANDE.RE]
+104.18.62.228 javlibrary.com
+104.18.62.228 www.javlibrary.com
 92.222.110.68 yande.re
 5.39.10.56 files.yande.re
 92.222.110.68 assets.yande.re
-
-# [KONACHAN.COM]
 5.178.68.69 konachan.com
-
-# [TSUMINO.COM]
 104.28.20.226 tsumino.com
 104.28.21.226 www.tsumino.com
-
-# [PORNEQ.COM]
 163.172.85.31 porneq.com
-
-# [NEWGROUNDS.COM]
-142.44.137.231 www.newgrounds.com newgrounds.com
-
-# [MOFOS.COM]
+142.44.137.231 www.newgrounds.com
+142.44.137.231 newgrounds.com
 216.18.168.90 members2.mofos.com
 66.254.112.121 mofos.com
 64.210.135.70 static.mofos.com
 216.18.168.88 www.mofos.com
 66.254.112.121 enter.mofos.com
-
-# [IMGUR.COM]
 151.101.40.193 imgur.com
 151.101.52.193 m.imgur.com
 151.101.52.193 api.imgur.com
@@ -528,34 +449,21 @@
 151.101.52.193 p.imgur.com
 151.101.40.193 i.imgur.com
 151.101.52.193 z.imgur.com
-
-# [A-ADS.COM]
 104.25.250.34 a-ads.com
-
-# [T.ME]
 149.154.167.118 t.me
-
-# [MANGAPANDA.COM]
 104.20.162.10 s5.mangapanda.com
 185.86.164.130 mangapanda.com
 104.20.162.10 s1.mangapanda.com
 104.20.163.10 s4.mangapanda.com
 185.86.164.130 www.mangapanda.com
 104.20.163.10 s3.mangapanda.com
-
-# [TANIX.NET]
-104.25.40.116 tanix.net www.tanix.net
-
-# [HEAVY.COM]
-192.0.79.34 heavy.com www.heavy.com
-
-# [MRPORNX.COM]
-107.6.164.21 mrpornx.com www.mrpornx.com
-
-# [THEPORNDUDE.COM]
+104.25.40.116 tanix.net
+104.25.40.116 www.tanix.net
+192.0.79.34 heavy.com
+192.0.79.34 www.heavy.com
+107.6.164.21 mrpornx.com
+107.6.164.21 www.mrpornx.com
 104.20.3.239 theporndude.com
-
-# [BRAZZERS.COM]
 216.18.168.61 ma.brazzers.com
 216.18.168.70 www.brazzers.com
 216.18.168.70 brazzers.com
@@ -565,60 +473,71 @@
 64.88.250.177 brazzerscontent.com
 205.185.208.25 static-tour-hw.brazzerscontent.com
 205.185.208.25 static-hw.brazzerscontent.com
-
-# [PORNMD.COM]
-216.18.168.48 pornmd.com www.pornmd.com
-
-# [MP4HENTAI.COM]
-104.28.8.24 mp4hentai.com www.mp4hentai.com
-
-# [NETFLIX.COM]
+216.18.168.48 pornmd.com
+216.18.168.48 www.pornmd.com
+104.28.8.24 mp4hentai.com
+104.28.8.24 www.mp4hentai.com
 184.26.82.98 assets.nflxext.com
 69.172.200.241 ir.netflix.com
 54.192.13.23 media.netflix.com
 34.211.85.116 help.netflix.com
 34.210.61.133 jobs.netflix.com
 184.26.82.98 codex.nflxext.com
-207.45.72.215 nflxext.com nflximg.com
+207.45.72.215 nflxext.com
+207.45.72.215 nflximg.com
 52.37.168.202 api-global.netflix.com
 52.34.255.169 ichnaea.netflix.com
-# Unique Netflix Ip's
-35.166.68.183 netflix.com www.netflix.com
-54.208.233.73 netflix.com www.netflix.com
-52.204.167.205 netflix.com www.netflix.com
-35.169.83.64 netflix.com www.netflix.com
-52.71.147.164 netflix.com www.netflix.com
-34.234.59.120 netflix.com www.netflix.com
-54.165.246.104 netflix.com www.netflix.com
-34.229.8.114 netflix.com www.netflix.com
-54.87.188.169 netflix.com www.netflix.com
-35.166.68.183 netflix.co.id www.netflix.co.id
-54.208.233.73 netflix.co.id www.netflix.co.id
-52.204.167.205 netflix.co.id www.netflix.co.id
-35.169.83.64 netflix.co.id www.netflix.co.id
-52.71.147.164 netflix.co.id www.netflix.co.id
-34.234.59.120 netflix.co.id www.netflix.co.id
-54.165.246.104 netflix.co.id www.netflix.co.id
-34.229.8.114 netflix.co.id www.netflix.co.id
-54.87.188.169 netflix.co.id www.netflix.co.id
-
-# [KISSMANGA.COM]
-104.25.45.113 kissmanga.com www.kissmanga.com
-
-# [KISSANIME.RU]
-104.20.26.43 kissanime.ru www.kissanime.ru
-
-# [KISSASIAN.COM]
-104.25.46.113 kissasian.com www.kissasian.com
-
-# [RAW.SENMANGA.COM]
+35.166.68.183 netflix.com
+35.166.68.183 www.netflix.com
+54.208.233.73 netflix.com
+54.208.233.73 www.netflix.com
+52.204.167.205 netflix.com
+52.204.167.205 www.netflix.com
+35.169.83.64 netflix.com
+35.169.83.64 www.netflix.com
+52.71.147.164 netflix.com
+52.71.147.164 www.netflix.com
+34.234.59.120 netflix.com
+34.234.59.120 www.netflix.com
+54.165.246.104 netflix.com
+54.165.246.104 www.netflix.com
+34.229.8.114 netflix.com
+34.229.8.114 www.netflix.com
+54.87.188.169 netflix.com
+54.87.188.169 www.netflix.com
+35.166.68.183 netflix.co.id
+35.166.68.183 www.netflix.co.id
+54.208.233.73 netflix.co.id
+54.208.233.73 www.netflix.co.id
+52.204.167.205 netflix.co.id
+52.204.167.205 www.netflix.co.id
+35.169.83.64 netflix.co.id
+35.169.83.64 www.netflix.co.id
+52.71.147.164 netflix.co.id
+52.71.147.164 www.netflix.co.id
+34.234.59.120 netflix.co.id
+34.234.59.120 www.netflix.co.id
+54.165.246.104 netflix.co.id
+54.165.246.104 www.netflix.co.id
+34.229.8.114 netflix.co.id
+34.229.8.114 www.netflix.co.id
+54.87.188.169 netflix.co.id
+54.87.188.169 www.netflix.co.id
+104.25.45.113 kissmanga.com
+104.25.45.113 www.kissmanga.com
+104.20.26.43 kissanime.ru
+104.20.26.43 www.kissanime.ru
+104.25.46.113 kissasian.com
+104.25.46.113 www.kissasian.com
 104.28.10.14 raw.senmanga.com
 
 # [ROTTEN.COM]
-216.218.248.135 rotten.com www.rotten.com
+216.218.248.135 rotten.com
+216.218.248.135 www.rotten.com
 
 # [HENTAIMAMA.COM]
-104.28.29.117 hentaimama.com www.hentaimama.com
+104.28.29.117 hentaimama.com
+104.28.29.117 www.hentaimama.com
 
 # [GIPHY.COM]
 151.101.38.2 media2.giphy.com
@@ -627,7 +546,8 @@
 151.101.38.2 tv.giphy.com
 151.101.38.2 media0.giphy.com
 52.216.64.210 labs.giphy.com
-151.101.193.185 giphy.com www.giphy.com
+151.101.193.185 giphy.com
+151.101.193.185 www.giphy.com
 151.101.38.2 media1.giphy.com
 151.101.38.2 media.giphy.com
 151.101.38.2 api.giphy.com
@@ -636,42 +556,55 @@
 151.101.54.2 developers.giphy.com
 
 # [JAVFULL.TV]
-104.24.104.142 javfull.tv www.javfull.tv
-104.27.172.92 javfull.net www.javfull.net
+104.24.104.142 javfull.tv
+104.24.104.142 www.javfull.tv
+104.27.172.92 javfull.net
+104.27.172.92 www.javfull.net
 
 # [HIGHPORN.NET]
-104.25.47.115 highporn.net www.highporn.net cdn.highporn.net
+104.25.47.115 highporn.net
+104.25.47.115 www.highporn.net
+104.25.47.115 cdn.highporn.net
 
 # [DL8X.COM]
-104.27.137.67 dl8x.com www.dl8x.com
+104.27.137.67 dl8x.com
+104.27.137.67 www.dl8x.com
 
 # [PURENUDISM.COM]
-141.0.173.172 purenudism.com www.purenudism.com
+141.0.173.172 purenudism.com
+www.purenudism.com
 198.232.127.46 content.purenudism.com
 141.0.173.18 members.purenudism.com
 
 # [ANIME-SHARING.COM]
-104.25.23.115 anime-sharing.com www.anime-sharing.com
+104.25.23.115 anime-sharing.com
+www.anime-sharing.com
 198.27.125.17 wiki.anime-sharing.com
 
 # [COMPLETS.CO.JP]
-153.122.55.127 complets.co.jp www.complets.co.jp
+153.122.55.127 complets.co.jp
+www.complets.co.jp
 
 # [YUUK.NET]
-104.28.14.80 yuuk.net www.yuuk.net
+104.28.14.80 yuuk.net
+www.yuuk.net
 
 # [OLOAD.TV]
-104.16.134.15 oload.tv www.oload.tv
+104.16.134.15 oload.tv
+www.oload.tv
 
 # [REDFLAVA.COM]
-85.10.202.22 redflava.com www.redflava.com
+85.10.202.22 redflava.com
+www.redflava.com
 85.10.202.22 gallery.redflava.com
 
 # [XIUREN.ORG]
-185.11.146.55 xiuren.org www.xiuren.org
+185.11.146.55 xiuren.org
+www.xiuren.org
 
 # [NUTAKU.NET]
-208.99.64.43 nutaku.net www.nutaku.net
+208.99.64.43 nutaku.net
+www.nutaku.net
 
 # [BANGBROS.COM]
 199.167.65.1 images25.bangbros.com
@@ -712,11 +645,13 @@
 104.20.93.249 members.throated.com
 
 # [TINY4K.COM]
-209.239.167.225 tiny4k.com www.tiny4k.com
+209.239.167.225 tiny4k.com
+www.tiny4k.com
 209.239.167.225 mobile.tiny4k.com
 
 # [X-ART.COM]
-104.19.128.79 x-art.com www.x-art.com
+104.19.128.79 x-art.com
+www.x-art.com
 54.230.14.130 free.x-art.com
 54.192.129.47 images.x-art.com
 
@@ -726,34 +661,44 @@
 46.182.108.2 images.nubilefilms.com
 
 # [FAMILYSTROKES.COM]
-66.254.108.235 familystrokes.com www.familystrokes.com
+66.254.108.235 familystrokes.com
+www.familystrokes.com
 66.254.109.5 join.familystrokes.com
 66.254.108.234 members.familystrokes.com
 
 # [JAVHIHI.COM]
-104.31.112.88 javhihi.com www.javhihi.com
+104.31.112.88 javhihi.com
+www.javhihi.com
 104.31.112.88 statics.javhihi.com
 69.16.175.10 data.javhihi.com
-104.27.162.36 javhihi.in www.javhihi.in statics.javhihi.in
+104.27.162.36 javhihi.in
+www.javhihi.in
+statics.javhihi.in
 
 # [EVILANGEL.COM]
-104.20.55.135 evilangel.com www.evilangel.com
+104.20.55.135 evilangel.com
+www.evilangel.com
 
 # [GIRLSDOPORN.COM]
-193.53.4.12 girlsdoporn.com www.girlsdoporn.com
+193.53.4.12 girlsdoporn.com
+www.girlsdoporn.com
 193.53.4.12 members.girlsdoporn.com
 
 # [JAVJUNKIES.COM]
-104.28.12.41 javjunkies.com www.javjunkies.com
+104.28.12.41 javjunkies.com
+www.javjunkies.com
 
 # [S1S1S1.COM]
-61.196.18.129 s1s1s1.com www.s1s1s1.com
+61.196.18.129 s1s1s1.com
+www.s1s1s1.com
 
 # [MOODYZ.COM]
-61.196.18.151 moodyz.com www.moodyz.com
+61.196.18.151 moodyz.com
+www.moodyz.com
 
 # [GRAVUREGIRLZ.COM]
-198.143.129.108 gravuregirlz.com www.gravuregirlz.com
+198.143.129.108 gravuregirlz.com
+www.gravuregirlz.com
 
 # [DATA18.COM]
 23.111.155.70 data18.com
@@ -763,50 +708,62 @@
 31.132.6.150 ima1.data18.com
 
 # [MANGAGO.ME]
-104.28.30.234 mangago.me www.mangago.me
+104.28.30.234 mangago.me
+www.mangago.me
 104.28.31.234 avatar.mangago.me
 
 # [WETMELON.COM]
-23.130.192.131 wetmelon.com www.wetmelon.com
+23.130.192.131 wetmelon.com
+www.wetmelon.com
 
 # [JAVHD.PRO]
-104.28.2.147 javhd.pro www.javhd.pro
+104.28.2.147 javhd.pro
+www.javhd.pro
 
 # [SCANLOVER.COM]
-104.27.146.232 scanlover.com www.scanlover.com
+104.27.146.232 scanlover.com
+www.scanlover.com
 74.50.116.175 forum.scanlover.com
 
 # [2CHAN.NET]
-104.17.127.32 2chan.net www.2chan.net
+104.17.127.32 2chan.net
+www.2chan.net
 
 # [JAVSUBTITLE.CO]
 104.27.144.19 javsubtitle.co
 104.27.145.19 www.javsubtitle.co
 
 # [ASIANSEXDIARY.COM]
-104.27.200.90 asiansexdiary.com www.asiansexdiary.com
+104.27.200.90 asiansexdiary.com
+www.asiansexdiary.com
 158.69.124.44 join.asiansexdiary.com
 
 # [STREETMEATASIA.COM]
-107.191.33.141 streetmeatasia.com www.streetmeatasia.com
+107.191.33.141 streetmeatasia.com
+www.streetmeatasia.com
 185.42.223.103 cdn.streetmeatasia.com
 
 # [ASIANSTREETMEAT.COM]
-107.191.33.134 asianstreetmeat.com www.asianstreetmeat.com
+107.191.33.134 asianstreetmeat.com
+www.asianstreetmeat.com
 
 # [YESPORNPLEASE.COM]
-104.31.115.23 yespornplease.com www.yespornplease.com
+104.31.115.23 yespornplease.com
+www.yespornplease.com
 104.31.114.23 static.yespornplease.com
 212.73.137.54 i3.yespornplease.com
 
 # [THIENDIA.COM]
-104.31.2.165 thiendia.com www.thiendia.com
+104.31.2.165 thiendia.com
+www.thiendia.com
 
 # [PORNLEECH.IS]
-104.18.55.246 pornleech.is www.pornleech.is
+104.18.55.246 pornleech.is
+www.pornleech.is
 
 # [SEXIX.NET]
-104.27.158.192 sexix.net www.sexix.net
+104.27.158.192 sexix.net
+www.sexix.net
 
 # [CHATURBATE.COM]
 104.16.147.241 fr.chaturbate.com
@@ -827,8 +784,11 @@
 104.16.146.241 blog.chaturbate.com
 104.16.147.241 en.chaturbate.com
 104.16.146.241 pt.chaturbate.com
-104.16.146.241 m.chaturbate.com support.chaturbate.com
-64.38.230.2 stream.highwebmedia.com highwebmedia.com www.highwebmedia.com *.stream.highwebmedia.com
+104.16.146.241 m.chaturbate.com
+support.chaturbate.com
+64.38.230.2 stream.highwebmedia.com
+highwebmedia.com
+www.highwebmedia.com
 104.16.47.55 camo.stream.highwebmedia.com
 104.16.46.23 ssl-ccstatic.highwebmedia.com
 64.38.211.174 chatws21.highwebmedia.com
@@ -841,13 +801,16 @@
 216.18.168.62 www.digitalplayground.com
 
 # [JAVHD3X.COM]
-104.28.31.244 javhd3x.com www.javhd3x.com
+104.28.31.244 javhd3x.com
+www.javhd3x.com
 
 # [JAVHD4K.COM]
-104.27.156.165 javhd4k.com www.javhd4k.com
+104.27.156.165 javhd4k.com
+www.javhd4k.com
 
 # [PORNHD3X.TO]
-104.24.102.38 pornhd3x.to www.pornhd3x.to
+104.24.102.38 pornhd3x.to
+www.pornhd3x.to
 
 # [DLSITE.COM]
 52.192.120.153 dlsite.com
@@ -859,96 +822,130 @@
 54.249.59.55 ch.dlsite.com
 
 # [HENTAI.CAFE]
-104.25.23.115 hentai.cafe www.hentai.cafe
+104.25.23.115 hentai.cafe
+www.hentai.cafe
 104.25.23.115 cdn.hentai.cafe
 
 # [PORNTREX.COM]
-109.201.133.9 porntrex.com www.porntrex.com
+109.201.133.9 porntrex.com
+www.porntrex.com
 205.185.216.10 cdn.porntrex.com
 
 # [SWFCHAN.COM]
-88.80.28.8 swfchan.com www.swfchan.com
+88.80.28.8 swfchan.com
+www.swfchan.com
 
 # [VPORN.COM]
-204.155.151.81 vporn.com www.vporn.com
+204.155.151.81 vporn.com
+www.vporn.com
 
 # [DOUJIN-MOE.US]
-184.168.221.18 doujin-moe.us www.doujin-moe.us
+184.168.221.18 doujin-moe.us
+www.doujin-moe.us
 
 # [MANGAGAG.COM]
-210.134.61.239 mangag.com www.mangag.com
+210.134.61.239 mangag.com
+www.mangag.com
 
 # [PROJECTHENTAI.COM]
-92.222.110.68 projecthentai.com www.projecthentai.com
+92.222.110.68 projecthentai.com
+www.projecthentai.com
 
 # [SAVIDO.NET]
-216.189.151.222 savido.net www.savido.net
+216.189.151.222 savido.net
+www.savido.net
 
 # [BAKABT.ME]
-104.28.18.24 bakabt.me www.bakabt.me
+104.28.18.24 bakabt.me
+www.bakabt.me
 
 # [JAVDUDE.COM]
-104.25.141.104 javdude.com www.javdude.com
+104.25.141.104 javdude.com
+www.javdude.com
 
 # [JAVGO.ME]
-104.31.13.189 javgo.me www.javgo.me down.javgo.me
+104.31.13.189 javgo.me
+www.javgo.me
+down.javgo.me
 
 # [WETPUSSYGAMES.COM]
-66.115.130.53 wetpussygames.com www.wetpussygames.com
+66.115.130.53 wetpussygames.com
+www.wetpussygames.com
 
 # [XTHEATRE.NET]
-104.28.2.65 xtheatre.net www.xtheatre.net
+104.28.2.65 xtheatre.net
+www.xtheatre.net
 
 # [MILFTOON.COM]
-69.197.161.178 milftoon.com www.milftoon.com
+69.197.161.178 milftoon.com
+www.milftoon.com
 
 # [WATCHXXXFREE.COM]
-104.27.153.2 watchxxxfree.com www.watchxxxfree.com
+104.27.153.2 watchxxxfree.com
+www.watchxxxfree.com
 
 # [CANDYGIRLVIDEO.COM]
-74.206.234.196 candygirlvideo.com www.candygirlvideo.com
+74.206.234.196 candygirlvideo.com
+www.candygirlvideo.com
 
 # [YOUPORN.COM]
-67.22.32.168 youporn.com www.youporn.com
+67.22.32.168 youporn.com
+www.youporn.com
 67.22.32.168 m.youporn.com
 
 # [HBROWSE.COM]
-104.28.18.40 hbrowse.com www.hbrowse.com
+104.28.18.40 hbrowse.com
+www.hbrowse.com
 
 # [MANGAKAKALOT.COM]
 104.27.175.188 mangakakalot.com
 
 # [ANIMERON.ORG]
-104.24.124.27 animeron.org www.animeron.org
+104.24.124.27 animeron.org
+www.animeron.org
 
 # [HENTAISTREAM.CO]
-104.27.157.102 hentaistream.co www.hentaistream.co
+104.27.157.102 hentaistream.co
+www.hentaistream.co
 
 # [PLAYVIDS.COM]
-199.101.134.46 playvids.com www.playvids.com accounts.playvids.com
+199.101.134.46 playvids.com
+www.playvids.com
+accounts.playvids.com
 
 # [REDTUBE.COM]
-64.210.135.134 redtube.com www.redtube.com m.redtube.com embed.redtube.com
+64.210.135.134 redtube.com
+www.redtube.com
+m.redtube.com
+embed.redtube.com
 64.210.135.236 thumbs-cdn.redtube.com
 
 # [JAVHUB.NET]
-104.25.47.115 javhub.net www.javhub.net
+104.25.47.115 javhub.net
+www.javhub.net
 
 # [JAVMOST.COM]
-104.27.72.17 javmost.com www5.javmost.com
+104.27.72.17 javmost.com
+www5.javmost.com
 
 # [UNDERHENTAI.NET]
-104.28.25.83 underhentai.net www.underhentai.net
+104.28.25.83 underhentai.net
+www.underhentai.net
 104.28.24.83 static.underhentai.net
 
 # [MANGAPARK.ME]
-104.25.118.22 mangapark.me www.mangapark.me my.mangapark.me h.s.mangapark.me
+104.25.118.22 mangapark.me
+www.mangapark.me
+my.mangapark.me
+h.s.mangapark.me
 
 # [EFUKT.COM]
-146.148.105.239 efukt.com www.efukt.com
+146.148.105.239 efukt.com
+www.efukt.com
 
 # [MANGADEX.COM]
-104.18.54.65 mangadex.com www.mangadex.com
+104.18.54.65 mangadex.com
+www.mangadex.com
 
 # [HANIME.TV]
 104.24.30.59 hanime.tv www.hanime.tv uploads.hanime.tv ark.hanime.tv cdn.hanime.tv search.hanime.tv
@@ -2029,6 +2026,3 @@
 0.0.0.0 license.piriform.com
 0.0.0.0 www.ccleaner.com
 0.0.0.0 shepherd.ff.avast.com
-
-# ============ END MY CUSTOM ======\
-# ====================================\
